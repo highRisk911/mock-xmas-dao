@@ -5,9 +5,13 @@ Starter kit for learning Solidity:
 1. [Node JS with Chocolatey](https://nodejs.org/)
 2. IDE with Solidity plugin(in my case i use Intelij Idea)
 3. **Solidity compiler**
-`npm install solc` 
+
+	`npm install solc` 
+
 4. **Truffle** - instrument for testing and deploying your contracts to blockchain
-`npm install -g truffle`
+
+	`npm install -g truffle`
+
 5. **[Ganache](https://trufflesuite.com/ganache/)** - local blockchain for testing
 6. Truffle plugins for testing & deploying:
 
