@@ -10,21 +10,34 @@ Starter kit for learning Solidity:
 `npm install -g truffle`
 5. **[Ganache](https://trufflesuite.com/ganache/)** - local blockchain for testing
 6. Truffle plugins for testing & deploying:
+
 	6.1 **HD Wallet**-enabled Web3 provider. Use it to sign transactions for addresses derived from a 12 or 24 
 	word 		             mnemonic. It's a built-in eth wallet into testing environment.
+	
 	`npm install @truffle/hdwallet-provider` 
+	
 	6.2 **Open Zeppelin** - it's a framework which help you with creating tokens.
-			`npm install @openzeppelin`
+	
+	`npm install @openzeppelin`
+			
 	6.3 **Truffle-assertions** - very important tool for testing contracts
-			`npm install truffle-assertions`
+	
+	`npm install truffle-assertions`
+			
 	6.4 **Chai** - libary for more smart using assertion.
-			`npm install chai`
+	
+	`npm install chai`
+			
 	6.5 **JS Big Decimal libary** - in Solidity very often used uint256, and for supporting 32 byte value in JS - you 
 				need BN libary.
-				`npm install js-big-decimal`
+				
+	`npm install js-big-decimal`
+				
 	6.6 After deploying to blockchain you need to verify contract, with this can help **Truffle verify plugin**,
-		  and do this without flattening. 
-		  `npm install -D truffle-plugin-verify`  
+	
+	and do this without flattening. 
+		  
+	`npm install -D truffle-plugin-verify`  
 
 **[Solidity docs](https://docs.soliditylang.org/en/v0.8.11/)** - all what you need for Solidity developing
 **[Open Zeppelin docs](https://docs.openzeppelin.com/contracts/4.x/)** - guides how to create your own tokens with OZ-framework. 
