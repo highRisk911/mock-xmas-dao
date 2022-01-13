@@ -8,7 +8,7 @@ Starter kit for learning Solidity:
 
 	`npm install solc` 
 
-4. **Truffle** - instrument for testing and deploying your contracts to blockchain
+4. **Truffle** - tool for testing and deploying your contracts to blockchain
 
 	`npm install -g truffle`
 
