@@ -40,6 +40,7 @@ Starter kit for learning Solidity:
 	`npm install -D truffle-plugin-verify`  
 
 **[Solidity docs](https://docs.soliditylang.org/en/v0.8.11/)** - all what you need for Solidity developing
+
 **[Open Zeppelin docs](https://docs.openzeppelin.com/contracts/4.x/)** - guides how to create your own tokens with OZ-framework. 
 
 # ERC-20
