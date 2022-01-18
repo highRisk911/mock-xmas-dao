@@ -44,6 +44,7 @@ Starter kit for learning Solidity:
 	`npm install -D truffle-plugin-verify`  
 	6.7 Truffle-upgradable
 	This package adds functions to your Truffle migrations and tests so you can deploy and upgrade proxies for your contracts
+	
 	`npm install --save-dev @openzeppelin/truffle-upgrades`
 
 **[Solidity docs](https://docs.soliditylang.org/en/v0.8.11/)** - all what you need for Solidity developing
