@@ -69,3 +69,27 @@ Contract: [0x16D2243b6f82A5cFE3cD7889f0361DbA3eE28e7c](https://rinkeby.etherscan
 ## LGA
 LGA inherit ERC1155
 Contract: [0x2eF225fB768c0fa412fC7e6C1715B4AdA5aB6CE3](https://rinkeby.etherscan.io/address/0x2eF225fB768c0fa412fC7e6C1715B4AdA5aB6CE3#code)
+
+
+# Upgradeable
+##PirateProxy
+
+Contract: [0x198EdB9fEFB93756Fe3bAd5e4249ACFA7f0f7B61](https://rinkeby.etherscan.io/address/0x198EdB9fEFB93756Fe3bAd5e4249ACFA7f0f7B61#code)
+
+##PirateAdmin
+
+Contract: [0xd2443e1f956c52882733e8c73CD942a8DA3a0ABf](https://rinkeby.etherscan.io/address/0xd2443e1f956c52882733e8c73CD942a8DA3a0ABf#code)
+
+###Implementations
+
+Pirate V1
+
+Contract: [0x5C2fe6B25ac11042817209A8785642822aD9ff91](https://rinkeby.etherscan.io/address/0x5C2fe6B25ac11042817209A8785642822aD9ff91#code)
+
+Pirate V2 AccessControl
+
+Contract: [0x9031D06113F88952dA1e591f8a89359a93c1a827](https://rinkeby.etherscan.io/address/0x9031D06113F88952dA1e591f8a89359a93c1a827#code)
+
+Pirate V3 Pausable
+
+Contract: [0xA73DA2aE776D1451e949f70C0a61C4efd335A279](https://rinkeby.etherscan.io/address/0xA73DA2aE776D1451e949f70C0a61C4efd335A279#code)
